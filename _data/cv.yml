@@ -3,31 +3,28 @@
   contents:
     - name: Full Name
       value: XYZ
-    - name: Date of Birth
-      value: 14th March 1879
+    #- name: Date of Birth
+    # value: 14th March 1879
     - name: Languages
       value: English, Chinese (Mandarin), French
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD candidate
+      institution: Sauder School of Business, University of British Columbia
+      year: 2017 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Management Science
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Advisor Michael Jong Kim
+          
+    - title: MAsc
+      institution: Department of Mechanical and Industrial Engineering, University of Toronto
+      year: 2015-2017
       description:
-        - Description 1.
-        - Description 2.
-
+        - Operations Research
+   
 - title: Experience
   type: time_table
   contents:
