@@ -5,8 +5,8 @@ permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: portrait-me.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p>555 your office number</p>
@@ -16,13 +16,12 @@ profile:
 # news: true  # includes a list of news items
 # latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
+
 This is XYZ from University of British Columbia. I am a PhD candidate at Sauder School of Business,  University of British Columbia. My advisor is Prof. [Michael Jong Kim](https://www.sauder.ubc.ca/people/michael-jong-kim). I obtained my MAsc in Operations Research from University of Toronto. Previously, I completed my B.S. in Physics and Mathematics from McGill University. 
 
 <!---My main research interests are in Bayesian learning and stochastic control. In particular,  I am interested in the interplay of strategic incentives and optimal leanring  with applications in revenue management and healthcare.
-
-
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
