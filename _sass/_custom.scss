@@ -1,0 +1,40 @@
+body {
+  font-family: "Inter", "Helvetica Neue", Arial, sans-serif;
+  font-size: 18px;
+  line-height: 1.75;
+}
+
+@media (min-width: 576px) {
+  .post-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  
+    h1.post-title {
+      margin-bottom: 4rem;
+    }
+
+    p.desc {
+      max-width: 500px;
+    }
+
+    p.post-description {
+      max-width: 500px;
+      margin-top: 4.5rem;
+    }
+  }
+}
+
+.publications {
+  .bibliography {
+    .title {
+    }
+
+    .author {
+    }
+
+    .links {
+      margin-top: 2rem;
+    }
+  }
+}
