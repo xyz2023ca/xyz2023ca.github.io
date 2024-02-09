@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. 心远地自偏 Address. Contacts. Moto. Etc.
+subtitle: 
+<!--- <a href='#'>Affiliations</a>.  Address. Contacts. Moto. Etc. --->
 
 profile:
   align: left
