@@ -19,11 +19,11 @@ profile:
 # latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-rss_icon: false
-orc_id: true
 ---
 
-This is XYZ from University of British Columbia. I am a PhD candidate in Management Science at Sauder School of Business,  University of British Columbia. My advisor is Prof. [Michael Jong Kim](https://www.sauder.ubc.ca/people/michael-jong-kim). I obtained my MAsc in Operations Research from University of Toronto. Previously, I completed my B.S. in Physics and Mathematics from McGill University. 
+This is XYZ from University of British Columbia. 
+
+I am a PhD candidate in Management Science at Sauder School of Business,  University of British Columbia. My advisor is Prof. [Michael Jong Kim](https://www.sauder.ubc.ca/people/michael-jong-kim). I obtained my MAsc in Operations Research from University of Toronto. Previously, I completed my B.S. in Physics and Mathematics from McGill University. 
 
 
 
