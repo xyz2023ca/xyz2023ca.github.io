@@ -9,14 +9,13 @@ permalink: /
 profile:
   align: right
   image: Portrait_a.png
-  image_circular: true # crops the image to make it circular
-  <!---address: >
+  image_circular: false # crops the image to make it circular
+  address: >
     <p>555 your office number</p>
     <p>123 your address street</p>
-    <p>Your City, State 12345</p> --->
-This is XYZ from University of British Columbia. 
+    <p>Your City, State 12345</p>
+  <!--- --->
 
-I am a PhD candidate in Management Science at Sauder School of Business,  University of British Columbia. My advisor is Prof. [Michael Jong Kim](https://www.sauder.ubc.ca/people/michael-jong-kim). I obtained my MAsc in Operations Research from University of Toronto. Previously, I completed my B.S. in Physics and Mathematics from McGill University.
 
 
 # news: true  # includes a list of news items
@@ -25,7 +24,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
- 
+ This is XYZ from University of British Columbia. 
+
+I am a PhD candidate in Management Science at Sauder School of Business,  University of British Columbia. My advisor is Prof. [Michael Jong Kim](https://www.sauder.ubc.ca/people/michael-jong-kim). I obtained my MAsc in Operations Research from University of Toronto. Previously, I completed my B.S. in Physics and Mathematics from McGill University.
 
 
 
