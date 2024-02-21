@@ -24,6 +24,8 @@ This is XYZ from University of British Columbia.
 
 I am a PhD candidate in Management Science at Sauder School of Business,  University of British Columbia. My advisor is Prof. [Michael Jong Kim](https://www.sauder.ubc.ca/people/michael-jong-kim). I obtained my MAsc in Operations Research from University of Toronto. Previously, I completed my B.S. in Physics and Mathematics from McGill University. 
 
+cv_pdf: Xinyuan Zhang CV.pdf
+
 
 
 <!---My main research interests are in Bayesian learning and stochastic control. In particular,  I am interested in the interplay of strategic incentives and optimal leanring  with applications in revenue management and healthcare.
