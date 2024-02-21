@@ -4,9 +4,6 @@ title: about
 permalink: /
 <!---      subtitle:  <a href='#'>Affiliations</a>.  Address. Contacts. Moto. Etc. --->
 
-This is XYZ from University of British Columbia. 
-
-I am a PhD candidate in Management Science at Sauder School of Business,  University of British Columbia. My advisor is Prof. [Michael Jong Kim](https://www.sauder.ubc.ca/people/michael-jong-kim). I obtained my MAsc in Operations Research from University of Toronto. Previously, I completed my B.S. in Physics and Mathematics from McGill University.
 
 
 profile:
@@ -17,6 +14,9 @@ profile:
     <p>555 your office number</p>
     <p>123 your address street</p>
     <p>Your City, State 12345</p> --->
+This is XYZ from University of British Columbia. 
+
+I am a PhD candidate in Management Science at Sauder School of Business,  University of British Columbia. My advisor is Prof. [Michael Jong Kim](https://www.sauder.ubc.ca/people/michael-jong-kim). I obtained my MAsc in Operations Research from University of Toronto. Previously, I completed my B.S. in Physics and Mathematics from McGill University.
 
 
 # news: true  # includes a list of news items
