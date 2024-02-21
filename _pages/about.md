@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: left
-  image: portrait_placeholder.jpg
+  image: portrait_a.jpg
   image_circular: false # crops the image to make it circular
   <!---address: >
     <p>555 your office number</p>
