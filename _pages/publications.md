@@ -12,3 +12,29 @@ nav_order: 1
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
 </div>
+
+<div class="working-papers">
+    <h2>Working Papers</h2>
+    <ul>
+        <li>
+            <strong>Paper Title 1</strong> - Short description of Paper 1.
+        </li>
+        <li>
+            <strong>Paper Title 2</strong> - Short description of Paper 2.
+        </li>
+        <!-- Add more papers as needed -->
+    </ul>
+</div>
+
+<div class="work-in-progress">
+    <h2>Work in Progress</h2>
+    <ul>
+        <li>
+            <strong>Project Title 1</strong> - Short description of Project 1.
+        </li>
+        <li>
+            <strong>Project Title 2</strong> - Short description of Project 2.
+        </li>
+        <!-- Add more projects as needed -->
+    </ul>
+</div>
