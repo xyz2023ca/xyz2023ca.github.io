@@ -37,6 +37,20 @@ In terms of methodologies, I combine statistical learning with stochastic contro
     </ul>
 </div>
 
+
+
+
+
+
+<div class="publications">
+
+{% bibliography -f {{ site.scholar.bibliography }} %}
+
+</div>
+
+
+<hr>
+
 <div class="work-in-progress">
     <h2>Work in Progress</h2>
     <ul>
@@ -51,27 +65,3 @@ In terms of methodologies, I combine statistical learning with stochastic contro
     </ul>
 </div>
 
-
-
-
-
-<div class="publications">
-
-{% bibliography -f {{ site.scholar.bibliography }} %}
-
-</div>
-
-
-<hr>
-<div class="work-in-progress">
-    <h2>Work in Progress</h2>
-    <ul>
-        <li>
-            <strong>Project Title 1</strong> - Short description of Project 1.
-        </li>
-        <li>
-            <strong>Project Title 2</strong> - Short description of Project 2.
-        </li>
-        <!-- Add more projects as needed -->
-    </ul>
-</div>
