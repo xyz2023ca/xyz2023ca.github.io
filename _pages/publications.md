@@ -2,12 +2,7 @@
 layout: page
 permalink: /publications/
 title: research
-description: My research focuses on improving data-driven decisions with application particularly in healthcare and revenue management. My recent research topics include:
--	Spread and control misinformation in E-commerce networks 
--	 Optimal combination of forecasts from multiple biased sources
--	Service allocation with customer returning to the systems
-In terms of methodologies, I combine statistical learning with stochastic control. My research inquiries are addressed using a broad spectrum of tools, including dynamic programming, robust optimization, Bayesian statistics, data-driven optimization, decentralized control, and social learning models.
-
+description: My research focuses on improving data-driven decisions with application particularly in healthcare and revenue management. 
 nav: true
 nav_order: 1
 ---
