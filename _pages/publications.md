@@ -31,9 +31,8 @@ In terms of methodologies, I combine statistical learning with stochastic contro
   <hr>
       <ul>
         <li>
-            <strong>Dynamic service allocation with returns: application to admission and discharge control with readmission in hospital</strong><br>
-            with Hossein Abouee-Mehrizi, Ya-tang Chuang, and Michael Jong Kim<br>
-            Revise and resubmit to <em>Operations Research</em>.
+            <strong>Dynamic service allocation with returns: application to admission and discharge control with readmission in hospital</strong>, with Hossein Abouee-Mehrizi, Ya-tang Chuang, and Michael Jong Kim<br>
+            <em> Revise and resubmit to Operations Research</em>.
         </li>
         <li>
             <strong>Diversified learning: Bayesian control with multiple biased information sources</strong><br>
