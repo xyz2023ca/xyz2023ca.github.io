@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: research
+title: Research
 description: My research focuses on improving data-driven decisions with application particularly in healthcare (e.g., ICU operations, pathology scheduling) and revenue management (e.g., advertising on E-commerce plat-forms, demand forecasting). 
 nav: true
 nav_order: 1
@@ -11,15 +11,9 @@ My recent research topics include:
 -	Spread and control misinformation in E-commerce networks 
 -	 Optimal combination of forecasts from multiple biased sources
 -	Service allocation with customer returning to the systems
+
+  
 In terms of methodologies, I combine statistical learning with stochastic control. My research inquiries are addressed using a broad spectrum of tools, including dynamic programming, robust optimization, Bayesian statistics, data-driven optimization, decentralized control, and social learning models.
-
-
-
-<div class="publications">
-
-{% bibliography -f {{ site.scholar.bibliography }} %}
-
-</div>
 
 <div class="working-papers">
     <h2>Working Papers</h2>
@@ -33,6 +27,16 @@ In terms of methodologies, I combine statistical learning with stochastic contro
         <!-- Add more papers as needed -->
     </ul>
 </div>
+
+
+
+<div class="publications">
+
+{% bibliography -f {{ site.scholar.bibliography }} %}
+
+</div>
+
+
 
 <div class="work-in-progress">
     <h2>Work in Progress</h2>
