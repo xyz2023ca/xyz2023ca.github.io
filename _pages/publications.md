@@ -32,18 +32,17 @@ In terms of methodologies, I combine statistical learning with stochastic contro
       <ul>
         <li>
             <strong>Dynamic service allocation with returns: application to admission and discharge control with readmission in hospital</strong>, with Hossein Abouee-Mehrizi, Ya-tang Chuang, and Michael Jong Kim<br>
-            <em> Revise and resubmit to Operations Research</em>.
+            <em> Revise and resubmit to Operations Research</em>
         </li>
         <br>
         <li>
             <strong>Diversified learning: Bayesian control with multiple biased information sources</strong>, with Jussi Keppo and Michael Jong Kim<br>
-            <em>  Manuscript in preparation</em>.
+            <em>  Manuscript in preparation</em>
         </li>
         <br>
         <li>
-            <strong>Shortening booking horizon for multi-appointment scheduling: An experimental study for speech-language therapy</strong><br>
-            with Hossein Abouee-Mehrizi<br>
-            Manuscript in preparation.
+            <strong>Shortening booking horizon for multi-appointment scheduling: An experimental study for speech-language therapy</strong>, with Hossein Abouee-Mehrizi<br>
+            <em>  Manuscript in preparation</em>
         </li>
     </ul>
 </div>
@@ -61,12 +60,11 @@ In terms of methodologies, I combine statistical learning with stochastic contro
   <hr>
     <ul>
         <li>
-            <strong>Optimal feature selection for multi-variate Bayesian control charts</strong><br>
-            with Ilbin Lee and Michael Jong Kim.
-        </li>
+            <strong>Optimal feature selection for multi-variate Bayesian control charts</strong>, with Ilbin Lee and Michael Jong Kim.
+        </li
+        <br>
         <li>
-            <strong>Robust data-driven scheduling with multiple follow-up appointments</strong><br>
-            with Hossein Abouee-Mehrizi.
+            <strong>Robust data-driven scheduling with multiple follow-up appointments</strong>, with Hossein Abouee-Mehrizi.
         </li>
     </ul>
 </div>
