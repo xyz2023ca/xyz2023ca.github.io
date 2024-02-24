@@ -13,7 +13,7 @@ My recent research topics include:
 -	Service allocation with customer returning to the systems
 
   
-In terms of methodologies, I combine statistical learning with stochastic control. My research inquiries are addressed using a broad spectrum of tools, including dynamic programming, robust optimization, Bayesian statistics, data-driven optimization, decentralized control, and social learning models.
+In terms of methodologies, I combine statistical learning with stochastic control. Specifically, my research inquiries are addressed using a broad spectrum of tools, including dynamic programming, robust optimization, Bayesian statistics, data-driven optimization, decentralized control, and social learning models. In the long term, I aim to apply these tools to generate insights into decision-making in complex information-sharing and stochastic environments and provide practical guidelines to improve efficiency in the associated operational settings.
 
 <div class="working-papers">
     <h2>Working Papers</h2>
