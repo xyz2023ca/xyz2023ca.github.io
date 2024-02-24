@@ -15,9 +15,9 @@ My recent research topics include:
   
 In terms of methodologies, I combine statistical learning with stochastic control. Specifically, my research inquiries are addressed using a broad spectrum of tools, including dynamic programming, robust optimization, Bayesian statistics, data-driven optimization, decentralized control, and social learning models. In the long term, I aim to apply these tools to generate insights into decision-making in complex information-sharing and stochastic environments and provide practical guidelines to improve efficiency in the associated operational settings.
 
- <h2>Working Papers</h2>
+ <h2>Jounral Articles</h2>
 
-<div class="Journal-publications">
+<div class="publications">
 {% bibliography -f {{ site.scholar.bibliography }} %}
 </div>
 
