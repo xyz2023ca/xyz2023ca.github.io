@@ -61,7 +61,7 @@ In terms of methodologies, I combine statistical learning with stochastic contro
     <ul>
         <li>
             <strong>Optimal feature selection for multi-variate Bayesian control charts</strong>, with Ilbin Lee and Michael Jong Kim.
-        </li
+        </li>
         <br>
         <li>
             <strong>Robust data-driven scheduling with multiple follow-up appointments</strong>, with Hossein Abouee-Mehrizi.
