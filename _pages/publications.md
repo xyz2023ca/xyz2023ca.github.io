@@ -18,7 +18,9 @@ In terms of methodologies, I combine statistical learning with stochastic contro
  <h2>Jounral Articles</h2>
 
 <div class="publications">
+  
 {% bibliography -f {{ site.scholar.bibliography }} %}
+
 </div>
 
 <!--  Runner-up for INFORMS DAS Best Student Paper Award, 2022-->
