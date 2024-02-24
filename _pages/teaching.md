@@ -19,6 +19,7 @@ Below is an outline of my responsibilities as a Teaching Assistant at Sauder:
 - **Graduate Descriptive and Predictive Analytics (BABS 507)**  
   _Spring 2024, Fall 2023_
     <!-- _Part of the Master of Business Analytics (MBAN) program at Sauder_ -->
+  
 - **Graduate Operations (BASC 550)**  
   _Fall 2023, Fall 2019, Winter 2018_
 
