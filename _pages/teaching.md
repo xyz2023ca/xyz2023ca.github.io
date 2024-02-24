@@ -1,21 +1,30 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description:
 nav: true
 nav_order: 5
 ---
 
-**Instructor**
 
 I taught Operations & Logistics (COMM 204) at Sauder School of Business, UBC, during the 2021-2022 academic year. It is an introductory course in operations management (OM) for students in the BCom program, covering basic topics ranging from process analysis and queuing systems to inventory and supply chain management. I incorporated frontier OM research, especially advances in data-driven decision making, into the course design. 
 I received 4.6 out of 5 for my teaching evaluation, reflecting positive feedback from a class of 58 students.
 
+I also had the opportunity to deliver guest lectures on advanced applied probability and stochastic modelling  for the Stochastic Processes (MIE 1605H) course, which is a part of the Master of Financial Engineering (MBAN) program at University of Toronto. 
 
 
+- **Graduate Descriptive and Predictive Analytics (BABS 507), UBC**  
+  _Fall 2023, Spring 2024_
 
-**Guest Lecturer**
+- **Undergraduate Decision Analysis Under Uncertainty (BAMS 517), UBC**  
+  _Fall 2020_
 
-Undergraduate Operations & Logistics (COMM 204), UBC Fall 2020
-Graduate Stochastic Processes (MIE 1605H), University of Toronto Winter 2016
+- **Graduate Analyzing and Modelling Uncertainty (BABS 506), UBC**  
+  _Fall 2019, Fall 2020_
+
+- **Graduate Application of Statistics in Management (BABS 550), UBC**  
+  _Winter 2019_
+
+- **Graduate Operations (BASC 550), UBC**  
+  _Winter 2018, Fall 2020, 2023_
