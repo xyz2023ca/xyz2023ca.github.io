@@ -7,6 +7,14 @@ nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
+My recent research topics include:
+-	Spread and control misinformation in E-commerce networks 
+-	 Optimal combination of forecasts from multiple biased sources
+-	Service allocation with customer returning to the systems
+In terms of methodologies, I combine statistical learning with stochastic control. My research inquiries are addressed using a broad spectrum of tools, including dynamic programming, robust optimization, Bayesian statistics, data-driven optimization, decentralized control, and social learning models.
+
+
+
 <div class="publications">
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
