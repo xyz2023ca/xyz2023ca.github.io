@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Research
-description: My research focuses on improving data-driven decisions using statiscal learning and stochastic control methods with application particularly in healthcare (e.g., ICU operations, pathology scheduling) and revenue management (e.g., advertising on E-commerce plat-forms, demand forecasting). 
+description: My research focuses on improving data-driven decisions using statiscal learning and stochastic control methods with application particularly in revenue management (e.g., advertising on E-commerce platforms, aggregated demand forecasting) and healthcare operations (e.g., ICU decisions, pathology scheduling). 
 nav: true
 nav_order: 1
 ---
