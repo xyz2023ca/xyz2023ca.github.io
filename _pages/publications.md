@@ -20,15 +20,19 @@ In terms of methodologies, I combine statistical learning with stochastic contro
     <h2>Working Papers</h2>
     <ul>
         <li>
-            <strong>Dynamic service allocation with returns: application to admission and discharge control with readmission in hospital</strong> 
-          - with Hossein Abouee-Mehrizi, Ya-tang Chuang, and Michael Jong Kim. 
-          Revise and resubmit to <em>Operations Research</em>.
+            <strong>Dynamic service allocation with returns: application to admission and discharge control with readmission in hospital</strong><br>
+            with Hossein Abouee-Mehrizi, Ya-tang Chuang, and Michael Jong Kim<br>
+            Revise and resubmit to <em>Operations Research</em>.
         </li>
         <li>
-            <strong>Diversified learning: Bayesian control with multiple biased information sources</strong> - with Jussi Keppo and Michael Jong Kim. Manuscript in preparation.
+            <strong>Diversified learning: Bayesian control with multiple biased information sources</strong><br>
+            with Jussi Keppo and Michael Jong Kim<br>
+            Manuscript in preparation.
         </li>
         <li>
-            <strong>Shortening booking horizon for multi-appointment scheduling: An experimental study for speech-language therapy</strong> - with Hossein Abouee-Mehrizi. Manuscript in preparation.
+            <strong>Shortening booking horizon for multi-appointment scheduling: An experimental study for speech-language therapy</strong><br>
+            with Hossein Abouee-Mehrizi<br>
+            Manuscript in preparation.
         </li>
     </ul>
 </div>
@@ -37,13 +41,16 @@ In terms of methodologies, I combine statistical learning with stochastic contro
     <h2>Work in Progress</h2>
     <ul>
         <li>
-            <strong>Optimal feature selection for multi-variate Bayesian control charts</strong> - with Ilbin Lee and Michael Jong Kim.
+            <strong>Optimal feature selection for multi-variate Bayesian control charts</strong><br>
+            with Ilbin Lee and Michael Jong Kim.
         </li>
         <li>
-            <strong>Robust data-driven scheduling with multiple follow-up appointments</strong> - with Hossein Abouee-Mehrizi.
+            <strong>Robust data-driven scheduling with multiple follow-up appointments</strong><br>
+            with Hossein Abouee-Mehrizi.
         </li>
     </ul>
 </div>
+
 
 
 
