@@ -34,11 +34,12 @@ In terms of methodologies, I combine statistical learning with stochastic contro
             <strong>Dynamic service allocation with returns: application to admission and discharge control with readmission in hospital</strong>, with Hossein Abouee-Mehrizi, Ya-tang Chuang, and Michael Jong Kim<br>
             <em> Revise and resubmit to Operations Research</em>.
         </li>
+        <br>
         <li>
-            <strong>Diversified learning: Bayesian control with multiple biased information sources</strong><br>
-            with Jussi Keppo and Michael Jong Kim<br>
-            Manuscript in preparation.
+            <strong>Diversified learning: Bayesian control with multiple biased information sources</strong>, with Jussi Keppo and Michael Jong Kim<br>
+            <em>  Manuscript in preparation</em>.
         </li>
+        <br>
         <li>
             <strong>Shortening booking horizon for multi-appointment scheduling: An experimental study for speech-language therapy</strong><br>
             with Hossein Abouee-Mehrizi<br>
