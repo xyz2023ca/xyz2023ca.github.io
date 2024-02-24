@@ -21,6 +21,7 @@ In terms of methodologies, I combine statistical learning with stochastic contro
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
+ Runner-up for INFORMS DAS Best Student Paper Award, 2022
 </div>
 
 
