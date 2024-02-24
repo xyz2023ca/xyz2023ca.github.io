@@ -15,17 +15,19 @@ I also had the opportunity to deliver guest lectures on advanced applied probabi
 
 
 Below is an outline of my responsibilities as a Teaching Assistant at Sauder:
-- **Graduate Descriptive and Predictive Analytics (BABS 507)**  
-  _Fall 2023, Spring 2024_
+- **Graduate Descriptive and Predictive Analytics (BABS 507)**
+  _part of the Master of Business Analytics (MBAN) program at Sauder_
+  _Spring 2024, Fall 2024_
+  
+- **Graduate Operations (BASC 550)**  
+  _Fall 2023, Fall 2019, Winter 2018_
 
 - **Undergraduate Decision Analysis Under Uncertainty (BAMS 517)**  
   _Fall 2020_
 
 - **Graduate Analyzing and Modelling Uncertainty (BABS 506)**  
-  _Fall 2019, Fall 2020_
+  _Fall 2020, Fall 2019_
 
 - **Graduate Application of Statistics in Management (BABS 550)**  
   _Winter 2019_
 
-- **Graduate Operations (BASC 550)**  
-  _Winter 2018, Fall 2020, 2023_
