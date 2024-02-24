@@ -14,17 +14,18 @@ I received 4.6 out of 5 for my teaching evaluation, reflecting positive feedback
 I also had the opportunity to deliver guest lectures on advanced applied probability and stochastic modelling  for the Stochastic Processes (MIE 1605H) course, which is a part of the Master of Financial Engineering (MBAN) program at University of Toronto. 
 
 
-- **Graduate Descriptive and Predictive Analytics (BABS 507), UBC**  
+Below is an outline of my responsibilities as a Teaching Assistant at Sauder:
+- **Graduate Descriptive and Predictive Analytics (BABS 507)**  
   _Fall 2023, Spring 2024_
 
-- **Undergraduate Decision Analysis Under Uncertainty (BAMS 517), UBC**  
+- **Undergraduate Decision Analysis Under Uncertainty (BAMS 517)**  
   _Fall 2020_
 
-- **Graduate Analyzing and Modelling Uncertainty (BABS 506), UBC**  
+- **Graduate Analyzing and Modelling Uncertainty (BABS 506)**  
   _Fall 2019, Fall 2020_
 
-- **Graduate Application of Statistics in Management (BABS 550), UBC**  
+- **Graduate Application of Statistics in Management (BABS 550)**  
   _Winter 2019_
 
-- **Graduate Operations (BASC 550), UBC**  
+- **Graduate Operations (BASC 550)**  
   _Winter 2018, Fall 2020, 2023_
