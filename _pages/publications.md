@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: research
-description: My research focuses on improving data-driven decisions with application particularly in healthcare and revenue management. 
+description: My research focuses on improving data-driven decisions with application particularly in healthcare (e.g., ICU operations, pathology scheduling) and revenue management (e.g., advertising on E-commerce plat-forms, demand forecasting). 
 nav: true
 nav_order: 1
 ---
