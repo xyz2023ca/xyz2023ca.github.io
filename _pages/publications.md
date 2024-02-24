@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Research
-description: My research focuses on improving data-driven decisions with application particularly in healthcare (e.g., ICU operations, pathology scheduling) and revenue management (e.g., advertising on E-commerce plat-forms, demand forecasting). 
+description: My research focuses on improving data-driven decisions using statiscal learning and stochastic control methods with application particularly in healthcare (e.g., ICU operations, pathology scheduling) and revenue management (e.g., advertising on E-commerce plat-forms, demand forecasting). 
 nav: true
 nav_order: 1
 ---
@@ -24,11 +24,12 @@ In terms of methodologies, I combine statistical learning with stochastic contro
 </div>
 
 <!--  Runner-up for INFORMS DAS Best Student Paper Award, 2022-->
-<hr>
+
 
 <div class="working-papers">
     <h2>Working Papers</h2>
-    <ul>
+  <hr>
+      <ul>
         <li>
             <strong>Dynamic service allocation with returns: application to admission and discharge control with readmission in hospital</strong><br>
             with Hossein Abouee-Mehrizi, Ya-tang Chuang, and Michael Jong Kim<br>
@@ -54,10 +55,10 @@ In terms of methodologies, I combine statistical learning with stochastic contro
 
 
 
-<hr>
 
 <div class="work-in-progress">
     <h2>Work in Progress</h2>
+  <hr>
     <ul>
         <li>
             <strong>Optimal feature selection for multi-variate Bayesian control charts</strong><br>
