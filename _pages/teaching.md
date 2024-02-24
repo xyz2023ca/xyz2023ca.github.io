@@ -15,6 +15,7 @@ I also had the opportunity to deliver guest lectures on advanced applied probabi
 
 
 Below is an outline of my responsibilities as a Teaching Assistant at Sauder:
+
 - **Graduate Descriptive and Predictive Analytics (BABS 507)**
   _part of the Master of Business Analytics (MBAN) program at Sauder_
   _Spring 2024, Fall 2024_
