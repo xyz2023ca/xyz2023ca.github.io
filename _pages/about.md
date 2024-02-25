@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 cv_pdf: Xinyuan Zhang CV.pdf
 ---
 
-This is <strong>Xinyuan Zhang<strong>, and welcome to my website!
+Welcome to my website!
 
 I am a PhD candidate in Management Science at Sauder School of Business,  University of British Columbia. My advisor is Prof. [Michael Jong Kim](https://www.sauder.ubc.ca/people/michael-jong-kim). As a researcher,
 I aim to utilize statistical learning and stochastic control methods to address challenges inherent in data-driven decision-making, especially within healthcare and revenue management applications. My recent research has focused on improving decision-making in complex information-sharing environments. (e.g., misinformation, strategic behaviors). Details can be found [here](https://xyz2023ca.github.io/publications/).
@@ -30,6 +30,8 @@ I aim to utilize statistical learning and stochastic control methods to address 
 
 Prior to my Ph.D., I obtained my Master of Applied Science degree in Operations Research from the University of Toronto and my Bachelor of Science degree in Physics and Mathematics from McGill University.
 You can find my CV [here](https://xyz2023ca.github.io/assets/pdf/Xinyuan%20Zhang%20CV.pdf).
+
+X.Y.Z
 
 
 
