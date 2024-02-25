@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Xinyuan Zhang
 permalink: /
 <!---      subtitle:  <a href='#'>Affiliations</a>.  Address. Contacts. Moto. Etc. --->
 
