@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Xinyuan Zhang
-permalink: /about/
+permalink: 
 <!---      subtitle:  <a href='#'>Affiliations</a>.  Address. Contacts. Moto. Etc. --->
 
 profile:
