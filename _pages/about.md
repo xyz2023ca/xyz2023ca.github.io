@@ -31,7 +31,9 @@ I aim to utilize statistical learning and stochastic control methods to address 
 Prior to my Ph.D., I obtained my Master of Applied Science degree in Operations Research from the University of Toronto and my Bachelor of Science degree in Physics and Mathematics from McGill University.
 You can find my CV [here](https://xyz2023ca.github.io/assets/pdf/Xinyuan%20Zhang%20CV.pdf).
 
-X.Y.Z
+
+**I am on the 2023-2024 academic job market.**
+
 
 
 
