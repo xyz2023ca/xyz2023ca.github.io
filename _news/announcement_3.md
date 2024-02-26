@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-06-03 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-POMS 2024 April :sparkles: :smile:
+<a href="https://site.pheedloop.com/event/cors2024/home"> CORS Annual Conference</a>, London, Canada 
