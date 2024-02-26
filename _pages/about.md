@@ -32,7 +32,7 @@ Prior to my Ph.D., I obtained my Master of Applied Science degree in Operations 
 You can find my CV [here](https://xyz2023ca.github.io/assets/pdf/Xinyuan%20Zhang%20CV.pdf).
 
 
-**I am on the 2023-2024 academic job market.**
+**I am on the 2023-2024 academic job market.** Below, you will find details of my upcoming talks. 
 
 
 
