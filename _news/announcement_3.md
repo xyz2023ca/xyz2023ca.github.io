@@ -5,7 +5,6 @@ inline: true
 related_posts: false
 ---
 
-<a href="https://site.pheedloop.com/event/cors2024/home"> CORS Annual Conference</a>, London, Canada 
+<a href="https://xyz2023ca.github.io/publications/"> Diversified learning</a>  and <a href="https://xyz2023ca.github.io/publications/"> service allocation with returns</a>   @  <a href="https://site.pheedloop.com/event/cors2024/home"> CORS Annual Conference</a>, London, Canada 
 
-Diversified Learning: Bayesian control with multiple biased information sources
-Dynamic service allocation with returns: application to admission and discharge control with readmission in hospital
+
