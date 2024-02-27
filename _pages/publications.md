@@ -14,7 +14,7 @@ I am particularly interested in improving decision-making within complex informa
 -	Service allocation with customer returns
 
   
-In terms of methodologies, my research inquiries are addressed using a broad spectrum of tools, including dynamic programming, robust optimization, Bayesian statistics, data-driven optimization, decentralized control, and social learning models. 
+In terms of methodologies, my research inquiries are addressed using a broad spectrum of tools, including dynamic programming,  Bayesian statistics, applied probability, decentralized control, robust optimization, and social learning models. 
 
 <h2>Journal Articles</h2>
 
