@@ -2,19 +2,19 @@
 layout: page
 permalink: /publications/
 title: Research
-description: My research focuses on improving data-driven decisions using statiscal learning and stochastic modelling methods with application particularly in revenue management and healthcare. 
+description: My research focuses on improving data-driven decisions using statistical learning and stochastic modeling methods with application in revenue management and healthcare. 
 nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
-I am particularly interested in improving decision-making within complex information-sharing environments (e.g., misinformation, biases, strategic behaviors) and also optimimizing service opertions in stochastic systems with complex dynamics (e.g., random returns, reassessments). My recent research topics include:
+I am particularly interested in improving decision-making within complex information-sharing environments (e.g., misinformation, biases, strategic behaviors) and optimizing service operations in stochastic systems with complex dynamics (e.g., random returns and reassessments). My recent research topics include:
 
 -	Spread and control of misinformation in online platforms
 -	Optimal combination of forecasts from multiple biased sources
 -	Service allocation with customer returns
 
   
-In terms of methodologies, my research inquiries are addressed using a broad spectrum of tools, including dynamic programming,  Bayesian statistics, applied probability, decentralized control, robust optimization, and social learning models. 
+In terms of methodologies, my research inquiries are addressed using a broad spectrum of tools, including dynamic programming,  Bayesian statistics, applied probability, decentralized control, robust optimization, and social learning models.  
 
 <h2>Journal Articles</h2>
 
