@@ -2,18 +2,19 @@
 layout: page
 permalink: /publications/
 title: Research
-description: My research focuses on improving data-driven decisions using statiscal learning and stochastic control methods with application particularly in revenue management (e.g., advertising on E-commerce platforms, aggregated demand forecasting) and healthcare operations (e.g., ICU decisions, pathology scheduling). 
+description: My research focuses on improving data-driven decisions using statiscal learning and stochastic modelling methods with application particularly in revenue management and healthcare. 
 nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
-My recent research topics include:
--	Spread and control misinformation in E-commerce networks 
--	 Optimal combination of forecasts from multiple biased sources
--	Service allocation with customer returning to the systems
+I am particularly interested in improving decision-making within complex information-sharing environments (e.g., misinformation, biases, strategic behaviors) and also optimimizing service opertions in stochastic systems with complex dynamics (e.g., random returns, reassessments). My recent research topics include:
+
+-	Spread and control of misinformation in online platforms
+-	Optimal combination of forecasts from multiple biased sources
+-	Service allocation with customer returns
 
   
-In terms of methodologies, I combine statistical learning with stochastic control. Specifically, my research inquiries are addressed using a broad spectrum of tools, including dynamic programming, robust optimization, Bayesian statistics, data-driven optimization, decentralized control, and social learning models. My long-term objective is to find prescriptive solutions to operational challenges in the era of big data. In particular, my aim is to use the aforementioned tools to uncover insights into decision-making within complex information-sharing environments—such as those involving misinformation, inherent biases, and strategic behavior—and to enhance the efficiency of the related systems accordingly.
+In terms of methodologies, my research inquiries are addressed using a broad spectrum of tools, including dynamic programming, robust optimization, Bayesian statistics, data-driven optimization, decentralized control, and social learning models. 
 
 <h2>Journal Articles</h2>
 
