@@ -41,9 +41,10 @@ Runner-up for INFORMS DAS Best Student Paper Award, 2022
             <strong>Diversified learning: Bayesian control with multiple biased information sources</strong>, with Jussi Keppo and Michael Jong Kim<br>
             <em> Manuscript in preparation </em>
         </li>
+         <br>
         <li>
            <strong>Efficiency Gains in the Health Sector Through Data-Driven Patient Scheduling: The Case of Paediatric Rehabilitation Services Paediatric Rehabilitation Services</strong>, with Hossein Abouee-Mehrizi, Benjamin Ravenscroft, and Brendan Wylie-Toal<br>
-            <em> Manuscript in preparation </em>
+            <em> Manuscript in preparation </em> <br>
             <em> Finalist, CORS Practice Prize Competition 2024 </em>
         </li>
       </ul>
