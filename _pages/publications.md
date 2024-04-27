@@ -43,7 +43,7 @@ Runner-up for INFORMS DAS Best Student Paper Award, 2022
         </li>
          <br>
         <li>
-           <strong>Efficiency Gains in the Health Sector Through Data-Driven Patient Scheduling: The Case of Paediatric Rehabilitation Services Paediatric Rehabilitation Services</strong>, with Hossein Abouee-Mehrizi, Benjamin Ravenscroft, and Brendan Wylie-Toal<br>
+           <strong>Efficiency gains in the health Sector through data-driven patient scheduling: The case of paediatric rehabilitation services </strong>, with Hossein Abouee-Mehrizi, Benjamin Ravenscroft, and Brendan Wylie-Toal<br>
             <em> Manuscript in preparation </em> <br>
             <em> Finalist, CORS Practice Prize Competition 2024 </em>
         </li>
