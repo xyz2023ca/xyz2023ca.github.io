@@ -34,12 +34,17 @@ Runner-up for INFORMS DAS Best Student Paper Award, 2022
       <ul>
         <li>
             <strong>Dynamic service allocation with returns: application to admission and discharge control with readmission in hospital</strong>, with Hossein Abouee-Mehrizi, Ya-tang Chuang, and Michael Jong Kim<br>
-            <em> Manuscript in preparation for Operations Research </em>
+            <em> Manuscript in preparation </em>
         </li>
         <br>
         <li>
             <strong>Diversified learning: Bayesian control with multiple biased information sources</strong>, with Jussi Keppo and Michael Jong Kim<br>
             <em> Manuscript in preparation </em>
+        </li>
+        <li>
+           <strong>Efficiency Gains in the Health Sector Through Data-Driven Patient Scheduling: The Case of Paediatric Rehabilitation Services Paediatric Rehabilitation Services</strong>, with Hossein Abouee-Mehrizi, Benjamin Ravenscroft, and Brendan Wylie-Toal<br>
+            <em> Manuscript in preparation </em>
+            <em> Finalist, CORS Practice Prize Competition 2024 </em>
         </li>
       </ul>
 </div>
