@@ -21,8 +21,7 @@ In terms of methodologies, my research inquiries are addressed using a broad spe
 <div class="publications">
   
 {% bibliography -f {{ site.scholar.bibliography }} %}
-
-Runner-up for INFORMS DAS Best Student Paper Award, 2022
+Runner-up, INFORMS DAS Best Student Paper Award, 2022
 </div>
 
 <!--  Runner-up for INFORMS DAS Best Student Paper Award, 2022-->
