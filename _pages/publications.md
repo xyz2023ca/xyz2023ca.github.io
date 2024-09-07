@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
-I am particularly interested in improving decision-making within complex information-sharing environments and optimizing service operations in stochastic systems with intricate dynamics. My recent research topics include:
+I am particularly interested in improving decision-making within complex information-sharing environments and system dynamics. My recent research topics include:
 
 -	Spread and control of misinformation in online platforms
 -	Optimal combination of forecasts from multiple biased sources
@@ -34,6 +34,7 @@ Runner-up, INFORMS DAS Best Student Paper Award, 2022
         <li>
             <strong>Dynamic service allocation with returns: application to admission and discharge control with readmission in hospital</strong>, with Hossein Abouee-Mehrizi, Ya-tang Chuang, and Michael Jong Kim<br>
             <em> Manuscript in preparation </em>
+          <em>Second Place, CORS Health Care Operational Research SIG Student Paper Competition</em>
         </li>
         <br>
         <li>
