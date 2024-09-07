@@ -12,9 +12,7 @@ nav_order: 2
 **Courses Taught:**
 - Operations & Logistics (COMM 204) at Sauder School of Business, UBC
   - Instructor, 2021-2022 academic year
-  - Teaching evaluation of 4.6/5 (class size: 58)
- 
-
+  
 **Guest Lectures Delivered:**
 - Operations & Logistics (COMM 204) at Sauder School of Business, UBC
   - Fall 2020
