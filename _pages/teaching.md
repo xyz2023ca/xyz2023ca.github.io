@@ -12,8 +12,12 @@ nav_order: 2
 **Courses Taught:**
 - Operations & Logistics (COMM 204) at Sauder School of Business, UBC
   - Instructor, 2021-2022 academic year
+  - Evaluation: 4.7/5 (class size: 58)
+  - Introductory course in operations management for students in the Bcom program; covers process analysis, queuing systems, project management, inventory and supply chain management;
   
 **Guest Lectures Delivered:**
+- Graduate Descriptive and Predictive Analytics (BABS 507)
+  - Spring 2024
 - Operations & Logistics (COMM 204) at Sauder School of Business, UBC
   - Fall 2020
 - Advanced Stochastic Processes (MIE 1605H) course, Universify of Toronto
