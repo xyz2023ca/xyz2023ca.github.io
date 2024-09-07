@@ -33,7 +33,7 @@ Runner-up, INFORMS DAS Best Student Paper Award, 2022
       <ul>
         <li>
             <strong>Dynamic service allocation with returns: application to admission and discharge control with readmission in hospital</strong>, with Hossein Abouee-Mehrizi, Ya-tang Chuang, and Michael Jong Kim<br>
-            <em> Manuscript in preparation </em>
+            <em> Manuscript in preparation </em><br>
           <em>Second Place, CORS Health Care Operational Research SIG Student Paper Competition</em>
         </li>
         <br>
