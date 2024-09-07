@@ -62,11 +62,11 @@ Runner-up, INFORMS DAS Best Student Paper Award, 2022
   <hr>
     <ul>
         <li>
-            <strong>Optimal feature selection for multi-variate Bayesian control charts</strong>, with Ilbin Lee and Michael Jong Kim.
+            <strong>Optimal feature selection for multi-variate Bayesian control charts</strong>
         </li>
         <br>
         <li>
-            <strong>Robust data-driven scheduling with multiple follow-up appointments</strong>, with Hossein Abouee-Mehrizi.
+            <strong>Robust data-driven scheduling with multiple follow-up appointments</strong>
         </li>
     </ul>
 </div>
