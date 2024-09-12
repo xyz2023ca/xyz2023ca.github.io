@@ -28,7 +28,7 @@ Runner-up, INFORMS DAS Best Student Paper Award, 2022
 
 
 <div class="working-papers">
-    <h2>Working Papers</h2>
+    <h2> Papers under review or in preparation </h2>
   <hr>
       <ul>
         <li>
