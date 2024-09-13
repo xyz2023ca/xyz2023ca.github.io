@@ -32,7 +32,7 @@ Runner-up, INFORMS DAS Best Student Paper Award, 2022
   <hr>
       <ul>
         <li>
-            <strong> Dynamic service allocation with returns: the case of admission and discharge control with readmission in hospital </strong>, with Hossein Abouee-Mehrizi, Ya-tang Chuang, and Michael Jong Kim<br>
+            <strong> Dynamic service allocation with returns: the case of admission and discharge control with readmission in hospital</strong>, with Hossein Abouee-Mehrizi, Ya-tang Chuang, and Michael Jong Kim<br>
             <em> Under review at Operations Research </em><br>
           <em>Second Place, CORS Health Care Operational Research SIG Student Paper Competition</em> <br>
           <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4950175" target="_blank">SSRN Version</a>
@@ -44,7 +44,7 @@ Runner-up, INFORMS DAS Best Student Paper Award, 2022
         </li>
          <br>
         <li>
-           <strong>Efficiency gains in the health Sector through data-driven patient scheduling: The case of paediatric rehabilitation services </strong>, with Hossein Abouee-Mehrizi, Benjamin Ravenscroft, and Brendan Wylie-Toal<br>
+           <strong>Efficiency gains in the health Sector through data-driven patient scheduling: the case of paediatric rehabilitation services</strong>, with Hossein Abouee-Mehrizi, Benjamin Ravenscroft, and Brendan Wylie-Toal<br>
             <em> Manuscript in preparation </em> <br>
             <em> Finalist, CORS Practice Prize Competition 2024 </em>
         </li>
