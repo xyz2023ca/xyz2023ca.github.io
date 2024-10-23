@@ -22,7 +22,7 @@ In terms of methodologies, my research inquiries are addressed using a broad spe
   
 {% bibliography -f {{ site.scholar.bibliography }} %}
 Runner-up, INFORMS DAS Best Student Paper Award, 2022 <br>
-          <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4950175" target="_blank">SSRN Version</a>
+          <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3465030" target="_blank">SSRN Version</a>
 </div>
 
 <!--  Runner-up for INFORMS DAS Best Student Paper Award, 2022-->
@@ -36,7 +36,7 @@ Runner-up, INFORMS DAS Best Student Paper Award, 2022 <br>
             <strong> Dynamic service allocation with returns: the case of admission and discharge control with readmission in hospital</strong>, with Hossein Abouee-Mehrizi, Ya-tang Chuang, and Michael Jong Kim<br>
             <em> Under review at Operations Research </em><br>
           <em>Second Place, CORS Health Care Operational Research SIG Student Paper Competition</em> <br>
-          <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3465030" target="_blank">SSRN Version</a>
+          <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4950175" target="_blank">SSRN Version</a>
         </li>
         <br>
         <li>
