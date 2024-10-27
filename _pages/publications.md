@@ -41,6 +41,7 @@ Runner-up, INFORMS DAS Best Student Paper Award, 2022 <br>
         <br>
         <li>
             <strong>Diversified learning: Bayesian control with multiple biased information sources</strong>, with Jussi Keppo and Michael Jong Kim<br>
+            <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4997308" target="_blank">SSRN Version</a>
             <em> Manuscript in preparation </em>
         </li>
          <br>
