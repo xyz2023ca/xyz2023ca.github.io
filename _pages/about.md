@@ -29,7 +29,7 @@ I received my PhD in Management Science from the Sauder School of Business, Univ
 
 
 
-You can find my CV [here](https://xyz2023ca.github.io/assets/pdf/CV_Xinyuan%20Zhang%202024.pdf).
+You can find my CV [here](https://xyz2023ca.github.io/assets/pdf/CV_2025.pdf).
 
 Below, you'll discover information about my recent talks and what's upcoming. 
 
