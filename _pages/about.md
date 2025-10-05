@@ -23,15 +23,15 @@ cv_pdf: Xinyuan Zhang CV.pdf
 
 Welcome to my website!
 
-I am a PhD candidate in Management Science at Sauder School of Business,  University of British Columbia. My advisor is Prof. [Michael Jong Kim](https://www.sauder.ubc.ca/people/michael-jong-kim). As a researcher,
-I aim to utilize statistical learning and stochastic control methods to address challenges inherent in data-driven decision-making, especially within service operations and revenue management applications. My recent research has focused on improving decision-making in complex information-sharing environments. (e.g., misinformation, strategic behaviors). Details can be found [here](https://xyz2023ca.github.io/publications/).
+I am an Assistant Professor in the Operations and Decision Sciences area at the Lazaridis School of Business and Economics, Wilfrid Laurier University.   As a researcher, I aim to utilize statistical learning and stochastic control methods to address challenges inherent in data-driven decision-making, especially within service operations and revenue management applications. My recent research has focused on improving decision-making in complex information-sharing environments. (e.g., misinformation, strategic behaviors). Details can be found [here](https://xyz2023ca.github.io/publications/).
+
+I received my PhD in Management Science from the Sauder School of Business, University of British Columbia, where I was advised by Prof. Michael Jong Kim. Before that, I earned a Master of Applied Science in Operations Research from the University of Toronto and a Bachelor of Science in Physics and Mathematics from McGill University.
 
 
 
-Prior to my Ph.D., I obtained my Master of Applied Science degree in Operations Research from the University of Toronto and my Bachelor of Science degree in Physics and Mathematics from McGill University.
 You can find my CV [here](https://xyz2023ca.github.io/assets/pdf/CV_Xinyuan%20Zhang%202024.pdf).
 
-<strong>I am on the 2024-2025 academic job market.</strong> Below, you'll discover information about my recent talks and what's upcoming. 
+Below, you'll discover information about my recent talks and what's upcoming. 
 
 
 
